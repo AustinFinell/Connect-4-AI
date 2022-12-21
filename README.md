@@ -1,6 +1,6 @@
 # Connect-4-AI
 
-### Functional Connect 4 game programmed in scheme using functional programming principles. 
+### Functional Connect 4 game programmed in racket using functional programming principles. 
 
 ##### Instructions
 - Open in DrRacket
